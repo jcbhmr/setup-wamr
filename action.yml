@@ -1,2 +1,6 @@
 name: Setup WebAssembly Micro Runtime
 description: 🤏 Setup wamr for GitHub Actions
+
+branding:
+  icon: play
+  color: blue
